@@ -1,11 +1,14 @@
 _repo: Pikku-veikon-kirja-Avioliittoromaani_65408
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Boken om lille-bror. Finnish
 contributor:
   translator:
     agent_name: Kaila, Antti
     gutenberg_agent_id: '45669'
     url: http://www.gutenberg.org/2009/agents/45669
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Geijerstam, Gustaf af
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33352
     wikipedia: https://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65408#Pikku-veikon-kirja-Avioliittoromaani
 gutenberg_issued: '2021-05-22'
 gutenberg_type: Text
 identifiers:
